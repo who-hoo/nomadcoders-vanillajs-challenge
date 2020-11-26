@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: #8e44ad;
+}
+
+h1 {
+  color: white;
+}
+
+.wide {
+  background-color: #f1c40f;
+}
+
+.narrow {
+  background-color: #3498db;
+}
