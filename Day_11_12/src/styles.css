@@ -1,4 +1,22 @@
 body {
-    font-family: sans-serif;
-  }
-  
+  font-family: sans-serif;
+  background-color: black;
+  border-color: azure;
+  color: azure;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 5px 10px;
+  text-align: center;
+}
+
+td.result {
+  text-align: right;
+  border: none;
+  background-color: black;
+  color: azure;
+}
